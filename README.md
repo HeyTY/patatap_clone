@@ -1,2 +1,2 @@
 # patatap_clone
-Patatap clone build with jQuery
+Patatap clone build with jQuery/Paper.js/Howler.js
